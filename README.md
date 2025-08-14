@@ -12,3 +12,10 @@
   </a>
   
 </div>
+
+<h2 align="left"> I code with </h2>
+
+###
+
+![Languages](https://skillicons.dev/icons?i=python,java,js,cpp,c,ts,nodejs,nextjs)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
